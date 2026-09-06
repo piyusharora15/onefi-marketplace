@@ -8,7 +8,7 @@ export const products = [
       "The latest iPhone Pro with powerful performance, an advanced camera system and a premium titanium design.",
 
     images: [
-      "https://images.unsplash.com/photo-1592286927505-2fd6f8f9b9c2?auto=format&fit=crop&w=900&q=80",
+      "https://unsplash.com/photos/two-iphones-side-by-side-on-a-gray-background-lDWTfYhZ85w?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink",
     ],
 
     variants: [
